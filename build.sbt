@@ -1,7 +1,6 @@
 name := "template-scala-sbt"
-
-version := "0.1"
-
+organization := "dev.vgerasimov"
+version := "0.1.0"
 scalaVersion := "2.13.4"
 
-idePackagePrefix := Some("io.github.wlad031.example")
+idePackagePrefix := Some("dev.vgerasimov.example")
